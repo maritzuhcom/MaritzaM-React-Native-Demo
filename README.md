@@ -5,7 +5,8 @@ libraries to make this app, check out the expo deployed demo.
 
 [HERE!](https://expo.io/@maritzuhcom/ExampleApp)
 
-- Download the Expo App
+- Download the Expo App on your phone
+- Open the App
 - Scan the QR code
 
 ![code](./code.png)
