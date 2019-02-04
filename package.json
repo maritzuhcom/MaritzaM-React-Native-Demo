@@ -1,0 +1,50 @@
+{
+  "name": "maritzam-react-native-demo",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maritzuhcom/MaritzaM-React-Native-Demo.git"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "axios": "^0.18.0",
+    "expo": "^32.0.0",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-elements": "^1.0.0",
+    "react-native-mask-loader": "0.0.3",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.1.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-preset-expo": "^5.0.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4",
+    "jest-expo": "^32.0.0"
+  },
+  "author": "Maritza Mancillas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maritzuhcom/MaritzaM-React-Native-Demo/issues"
+  },
+  "homepage": "https://github.com/maritzuhcom/MaritzaM-React-Native-Demo#readme"
+}
